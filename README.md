@@ -1,4 +1,4 @@
-iturn0image0turn0image1turn0image2turn0image4# Time Series Forecasting with ARIMA
+Time Series Forecasting with ARIMA
 
 This project demonstrates how to perform time series forecasting using the ARIMA (AutoRegressive Integrated Moving Average) model in Python. The dataset utilized contains historical case counts over time, and the goal is to predict future case numbers based on past trends.
 
@@ -67,7 +67,7 @@ To run the forecasting model, execute the Python script. Ensure that the `us.csv
 
 The ARIMA model achieved a Mean Absolute Percentage Error (MAPE) of 4.4% on the test set, indicating a high level of forecasting accuracy. Below is the plot comparing the actual and forecasted case counts:
 
-![Actual vs. Forecasted Cases](arima_forecast.png)
+![Actual vs. Forecasted Cases](arima_forcast.png)
 
 *Figure: Actual vs. Forecasted Cases*
 
