@@ -28,7 +28,7 @@ Ensure that this CSV file is located in the same directory as the Python script 
 
 ## Prerequisites
 
-To run the code, you need the following Python libraries installed:
+To run the code, you need the following Python libraries installed:
 
 - `pandas`
 - `numpy`
